@@ -5,7 +5,7 @@ Here more help and [Getting Started](https://docs.mamoworld.com/automation-block
 You can import and customize and use :)
 
 
-# Bounding Box v2
+# Bounding Box
 You can create one bounding box for all selected layers or single mask bounding boxes for each selected layer.
 
 https://twitter.com/i/status/1658753569355362306
