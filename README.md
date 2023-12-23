@@ -6,18 +6,13 @@ You can import and customize and use :)
 
 Also, export it as JSX, place it in MoBar or KBar, and use it with one button or run it as a script. 
 
+----------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------
 
+# Count Compositions
+You can count selected or all compositions in project panel. You can localize or customize blocks like you want in #AutomationBlocksAe
 
-# Bounding Box
-You can create one bounding box for all selected layers or single mask bounding boxes for each selected layer.
-
-https://github.com/onderk-motion/Automation-Blocks-Tools/assets/18551167/61a903ba-f63b-44ab-883a-4f9520979c13
-
-# Merge Stroke & Fill colors
-If you have multiple same fill and strokes in your shape group, you can merge them into one fill and stroke with my new #AutomationBlocksAe tool.
-
-
-https://github.com/onderk-motion/Automation-Blocks-Tools/assets/18551167/d4dfbddc-3e70-42cf-a293-4b8fbdfb8f9c
+https://github.com/onderk-motion/Automation-Blocks-Tools/assets/18551167/f1144d27-88ae-4ccb-add5-7d4adfd3163d
 
 # Layer Render
 Just released "Layer Render" - a handy tool for #AutomationBlocksAe that lets you easily render out each layer in your comp as separate files. Save time and simplify your workflow!
@@ -26,3 +21,13 @@ Also, you can customize each block, destination, name pattern, etc.
 
 https://github.com/onderk-motion/Automation-Blocks-Tools/assets/18551167/9b1611ed-e674-4adc-88bb-b647cafe4944
 
+# Merge Stroke & Fill colors
+If you have multiple same fill and strokes in your shape group, you can merge them into one fill and stroke with my new #AutomationBlocksAe tool.
+
+https://github.com/onderk-motion/Automation-Blocks-Tools/assets/18551167/d4dfbddc-3e70-42cf-a293-4b8fbdfb8f9c
+
+
+# Bounding Box
+You can create one bounding box for all selected layers or single mask bounding boxes for each selected layer.
+
+https://github.com/onderk-motion/Automation-Blocks-Tools/assets/18551167/61a903ba-f63b-44ab-883a-4f9520979c13
