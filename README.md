@@ -21,6 +21,11 @@ After you copied new scripts to your user library, make sure to close and reopen
 
 
 
+# Fit to Comp Width (Protect Y Position)
+Default Fit to Comp Width change position of selected layer and move to center of the compostion. With this #AutomationBlocksAe tool, Y positioın won't change.
+
+https://github.com/onderk-motion/Automation-Blocks-Tools/assets/18551167/d4f507bb-c1f2-4054-a915-3b65eaab021e
+
 # Count Compositions
 You can count selected or all compositions in project panel. You can localize or customize blocks like you want in #AutomationBlocksAe
 
