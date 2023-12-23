@@ -11,7 +11,7 @@ Also, export it as JSX, place it in MoBar or KBar, and use it with one button or
 
 To copy tools from the community library to your user library, you need to know where the latter is located on your system. By default the user library is a subfolder with name "Automation Blocks Pr Library" (or "Automation Blocks Ae Library") inside your user's Documents folder. You can also access the library from Automation Blocks preferences:
 
-https://docs.mamoworld.com/automation-blocks/img/overview/findUserLibraryFolder@2x.png
+<img width="571" alt="findUserLibraryFolder@2x" src="https://github.com/onderk-motion/Automation-Blocks-Tools/assets/18551167/3fa29425-04d5-4288-94d2-16b3933b3237">
 
 After you copied new scripts to your user library, make sure to close and reopen the Automation Blocks panel, to force a reload of the library.
 
