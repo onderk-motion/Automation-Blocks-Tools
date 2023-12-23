@@ -8,5 +8,5 @@ You can import and customize and use :)
 # Bounding Box
 You can create one bounding box for all selected layers or single mask bounding boxes for each selected layer.
 
-https://twitter.com/i/status/1658753569355362306
+https://github.com/onderk-motion/Automation-Blocks-Tools/assets/18551167/61a903ba-f63b-44ab-883a-4f9520979c13
 
