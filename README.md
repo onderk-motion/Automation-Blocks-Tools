@@ -6,8 +6,20 @@ You can import and customize and use :)
 
 Also, export it as JSX, place it in MoBar or KBar, and use it with one button or run it as a script. 
 
+
+# Where is the User Library?
+
+To copy tools from the community library to your user library, you need to know where the latter is located on your system. By default the user library is a subfolder with name "Automation Blocks Pr Library" (or "Automation Blocks Ae Library") inside your user's Documents folder. You can also access the library from Automation Blocks preferences:
+
+https://docs.mamoworld.com/automation-blocks/img/overview/findUserLibraryFolder@2x.png
+
+After you copied new scripts to your user library, make sure to close and reopen the Automation Blocks panel, to force a reload of the library.
+
+
 ----------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------
+
+
 
 # Count Compositions
 You can count selected or all compositions in project panel. You can localize or customize blocks like you want in #AutomationBlocksAe
