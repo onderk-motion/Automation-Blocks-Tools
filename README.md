@@ -1,3 +1,5 @@
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/onderk_motion)
+
 I creating my custom tools for [Automation Blocks for After Effects](https://aescripts.com/automation-blocks-for-after-effects/)
 
 Here more help and [Getting Started](https://docs.mamoworld.com/automation-blocks/)
