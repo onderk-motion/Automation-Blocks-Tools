@@ -21,6 +21,10 @@ After you copied new scripts to your user library, make sure to close and reopen
 ----------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------
 
+# Swap Two Text Values
+Only the text content is swapped while maintaining all other properties of the text layers.
+
+https://github.com/onderk-motion/Automation-Blocks-Tools/assets/18551167/9eedb4ee-689b-45eb-928f-4e4b8ab7b9be
 
 
 # Fit to Comp Width (Protect Y Position)
